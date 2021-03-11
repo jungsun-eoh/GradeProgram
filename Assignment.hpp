@@ -2,8 +2,6 @@
 //  Assignment.hpp
 //  AssignmentProgram
 //
-//  Created by Eohjungsun on 3/25/16.
-//  Copyright © 2016 AssignmentEX. All rights reserved.
 //
 
 #ifndef Assignment_hpp
