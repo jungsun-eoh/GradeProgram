@@ -2,8 +2,6 @@
 //  StudentList.hpp
 //  GradeProgram
 //
-//  Created by Eohjungsun on 4/4/16.
-//  Copyright © 2016 nodeEX. All rights reserved.
 //
 
 #ifndef StudentList_hpp
